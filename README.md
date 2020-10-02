@@ -1,2 +1,2 @@
 # jovian.ml
-Contains notebook for jovian.ml assignments 
+Contains notebook for jovian.ml assignments and project
